@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <item>
+    <name>puma</name>
+    <category>sho</category>
+    <price>99</price>
+  </item>
+  <item>
+    <name>adidas</name>
+    <category>shoe</category>
+    <price>123</price>
+  </item>
+  <item>
+    <name>nike</name>
+    <category>shoe</category>
+    <price>1423</price>
+  </item>
+</root>
